@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ncua",
   "title": "Ncua",
   "description": "NCUA MCP — US credit union data from the quarterly 5300 Call Report.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ncua",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ncua",

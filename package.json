@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ncua",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NCUA MCP — US credit union data from the quarterly 5300 Call Report.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-038304673857275262590ae29e89c94b36c153603b0bec11ff1c06844d58fc63",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }
